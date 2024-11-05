@@ -2,6 +2,7 @@
 
 import DatosPersonales from './components/DatosPersonales.vue';
 import NavBar from './components/NavBar.vue';
+import Educacion from './components/Educacion.vue';
 </script>
 
 <template>
@@ -11,7 +12,11 @@ import NavBar from './components/NavBar.vue';
 
     <!--Componente de Datos Personales-->
     <DatosPersonales></DatosPersonales>
-    
+
+    <!--Componente de Datos Personales-->
+    <Educacion></Educacion>
+
+
   </header>
   <main>
     <section id="educacion"><h2>Educacion - Cursos</h2></section>
