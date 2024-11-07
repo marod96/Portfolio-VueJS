@@ -46,7 +46,7 @@ p {
 }
 
 .card {
-  background-color: rgb(28, 41, 52);
+  background-color: rgb(5, 85, 150);
   border-radius: 10px;
   padding: 10px;
   margin: 10px;
@@ -68,7 +68,7 @@ p {
   border-radius: 50%;
   padding: 2px;
   margin: 5px;
-  box-shadow: 0 0 5px rgba(95, 124, 205, 0.934);
+  box-shadow: 0 0 5px rgba(40, 50, 183, 0.934);
 }
 
 .icon-redsocial:hover {
